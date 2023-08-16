@@ -5,7 +5,7 @@
  * This file sends every line of the input file (that comes from 'main.c') to function line_parser (located in 'parser.h') and after line_parser function
  * parses the line, 'handler.c' file processes the output of line_parser.
  *
- * @author - Arthur Losnikov
+ * @author - Arthur Rennert
  * Assembler Project
  */
 
