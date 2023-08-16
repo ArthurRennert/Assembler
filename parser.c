@@ -1,7 +1,7 @@
 /**
  * This file contains all functions and information related to parsing handling in the 'assembler'.
  *
- * @author - Arthur Losnikov
+ * @author - Arthur Rennert
  * Assembler Project
  */
 
