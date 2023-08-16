@@ -1,7 +1,7 @@
 /**
  * This is the main file and it contains access to "sensitive" pointers addresses and access to "sensitive" funtions (from 'errors.c', 'symbol_table.c').
  * 
- * @author - Arthur Losnikov
+ * @author - Arthur Rennert
  * Assembler Project
  */
 
